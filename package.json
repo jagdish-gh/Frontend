@@ -2,6 +2,7 @@
   "name": "facerecognitionjag",
   "version": "0.1.0",
   "private": true,
+  "description" : "My First APP (jpc)",
   "dependencies": {
     "clarifai": "^2.8.1",
     "react": "^16.4.2",
